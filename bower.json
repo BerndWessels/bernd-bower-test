@@ -1,0 +1,16 @@
+{
+  "name": "bernd-bower-test",
+  "version": "0.1.0",
+  "authors": [
+    "'BerndWessels' <wesselsbernd@gmail.com>"
+  ],
+  "description": "bernd's bower test",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
