@@ -1,6 +1,6 @@
 {
   "name": "bernd-bower-test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "'BerndWessels' <wesselsbernd@gmail.com>"
   ],
@@ -12,5 +12,7 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "main": "",
+  "private": true
 }
